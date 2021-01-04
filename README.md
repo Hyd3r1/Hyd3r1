@@ -17,3 +17,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="http://kubernetes.io/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <a href="https://rancher.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/></a>
+<a href="https://gitlab.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://github.com" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
