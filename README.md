@@ -3,6 +3,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact)
 
 ### I use
+
 <a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://python.org" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -19,3 +20,14 @@
 <a href="https://rancher.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/></a>
 <a href="https://gitlab.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=PyCharm%20Professional&style=for-the-badge&label=&logo=pycharm&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=PhpStorm&style=for-the-badge&label=&logo=phpstorm&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
+<a target="_blank" rel="nofollow noreferrer noopener" href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/static/v1?message=IntelliJ%20IDEA%20Ultimate&style=for-the-badge&label=&logo=intellij%20idea&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=WebStorm&style=for-the-badge&label=&logo=webstorm&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Code&style=for-the-badge&label=&logo=visual%20studio%20code&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Nginx&style=for-the-badge&label=&logo=nginx&logoColor=FFFFFF&color=269539&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Apache2&style=for-the-badge&label=&logo=apache&logoColor=FFFFFF&color=D22128&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Discord.JS&style=for-the-badge&label=&logo=discord&logoColor=000000&color=F7DF1E&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Windows&style=for-the-badge&label=&logo=windows&logoColor=FFFFFF&color=0078D6&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Linux&style=for-the-badge&label=&logo=linux&logoColor=000000&color=FCC624&cacheSeconds=86400" /></a>
+<a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Android&style=for-the-badge&label=&logo=android&logoColor=FFF&color=000000&cacheSeconds=86400" /></a>
