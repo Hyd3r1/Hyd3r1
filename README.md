@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hyd3r1&show_icons=true&theme=radical)
-![Langs ;)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact">
 ### I use
 
 <a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
