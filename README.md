@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hyd3r1&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact)
+![Langs ;)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact)
 
 ### I use
 
