@@ -31,3 +31,18 @@
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Linux&style=for-the-badge&label=&logo=linux&logoColor=000000&color=FCC624&cacheSeconds=86400" /></a>
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Android&style=for-the-badge&label=&logo=android&logoColor=FFF&color=000000&cacheSeconds=86400" /></a>
 
+```javascript
+new SoftwareDeveloper = class Developer {
+  constructor(){
+      this.name = "Krzysztof";
+      this.familyname = "Haller";
+      this.age = 17;
+      this.languages = ["Python", "PHP", "Java", "JavaScript"];
+      this.frameworks = ["FastAPI", "Node.JS", "Vue.JS", "Laravel", "CodeIgniter", "Electron", "JQuery"];
+      this.ide = ["InteliJ IDEA", "PHPStorm", "PyCharm", "Visual Studio Code"];
+      this.tools = ["Docker", "Kubernetes", "Rancher", "GitHub", "GitLab"];
+      this.webservers = ["OpenLiteSpeed", "Apache2", "Nginx"];
+      this.databases = ["MySQL", "SQLite", "Redis"];
+  }
+}
+```
