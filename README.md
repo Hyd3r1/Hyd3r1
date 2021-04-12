@@ -30,3 +30,4 @@
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Windows&style=for-the-badge&label=&logo=windows&logoColor=FFFFFF&color=0078D6&cacheSeconds=86400" /></a>
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Linux&style=for-the-badge&label=&logo=linux&logoColor=000000&color=FCC624&cacheSeconds=86400" /></a>
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Android&style=for-the-badge&label=&logo=android&logoColor=FFF&color=000000&cacheSeconds=86400" /></a>
+
