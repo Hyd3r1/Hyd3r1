@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Hyd3r1&color=8400F1" align="center">
+
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hyd3r1&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hyd3r1&theme=radical">
