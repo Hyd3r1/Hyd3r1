@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hyd3r1&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hyd3r1&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hyd3r1&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyd3r1&theme=radical&layout=compact">
 
 ### I use
 
