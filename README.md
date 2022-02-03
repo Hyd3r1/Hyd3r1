@@ -35,7 +35,7 @@
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Android&style=for-the-badge&label=&logo=android&logoColor=FFF&color=000000&cacheSeconds=86400" /></a>
 
 ```javascript
-var SoftwareDeveloper = class Developer {
+const SoftwareDeveloper = class Developer {
   constructor(){
       this.name = "Krzysztof";
       this.familyname = "Haller";
