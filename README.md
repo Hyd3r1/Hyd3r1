@@ -22,6 +22,8 @@ Hi there 👋
 👋🏼 My wakatime stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 310 Contributions in the Year 2022
@@ -51,10 +53,11 @@ Hi there 👋
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-PHP                      3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+Blade Template           54 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.03% 
+PHP                      10 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.97%
 
 ```
 
 
- Last Updated on 17/03/2022 01:02:42 UTC
+ Last Updated on 17/03/2022 12:28:22 UTC
 <!--END_SECTION:waka-->
