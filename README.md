@@ -22,8 +22,6 @@ Hi there 👋
 👋🏼 My wakatime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2014%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 310 Contributions in the Year 2022
@@ -59,5 +57,5 @@ PHP                      10 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 17/03/2022 18:19:45 UTC
+ Last Updated on 18/03/2022 01:02:32 UTC
 <!--END_SECTION:waka-->
