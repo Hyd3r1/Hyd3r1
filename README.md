@@ -53,10 +53,11 @@ Hi there 👋
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 13 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.7% 
+Blade Template           19 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.3%
 
 ```
 
 
- Last Updated on 20/06/2022 18:24:53 UTC
+ Last Updated on 21/06/2022 01:24:20 UTC
 <!--END_SECTION:waka-->
