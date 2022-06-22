@@ -22,7 +22,7 @@ Hi there 👋
 👋🏼 My wakatime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2044%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,5 +59,5 @@ Blade Template           50 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 ```
 
 
- Last Updated on 22/06/2022 12:34:22 UTC
+ Last Updated on 22/06/2022 18:22:04 UTC
 <!--END_SECTION:waka-->
