@@ -22,7 +22,7 @@ Hi there 👋
 👋🏼 My wakatime stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -36,27 +36,6 @@ Hi there 👋
  > 
 > 🔑 9 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    55 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.62% 
-🌆 Daytime    247 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.68% 
-🌃 Evening    147 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.38% 
-🌙 Night      69 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/09/2022 06:20:35 UTC
+ Last Updated on 04/09/2022 12:33:48 UTC
 <!--END_SECTION:waka-->
