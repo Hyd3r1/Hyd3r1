@@ -21,25 +21,15 @@ Hi there 👋
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2012%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
-> 📦 17.3 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                30 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.08 % 
-🌆 Daytime                107 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.56 % 
-🌃 Evening                413 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.19 % 
-🌙 Night                  185 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.17 % 
+🌆 Daytime                107 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.54 % 
+🌃 Evening                413 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.11 % 
+🌙 Night                  186 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.27 % 
 ```
 
 
@@ -50,5 +40,5 @@ Hi there 👋
 ```
 
 
- Last Updated on 01/04/2023 02:34:42 UTC
+ Last Updated on 01/04/2023 02:37:42 UTC
 <!--END_SECTION:waka-->
